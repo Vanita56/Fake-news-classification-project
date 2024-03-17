@@ -1,5 +1,6 @@
 # Fake-news-classification-project
-The aim of this project is to build a machine learning model capable of predicting whether a given news article is fake or genuine.
+The Fake News Classification project aims to develop a robust machine learning model capable of accurately categorizing news articles as either fake or real. The motivation behind this project is to increase authenticity of news content.
+The project utilized a labeled dataset of news articles, where each article was tagged as either fake or real. In terms of data preprocessing, a series of Natural Language Processing (NLP) operations were applied to clean and structure the text data, including tokenization, stop word removal, and lemmatization.
 I took dataset from kaggle, it was a large daatset.
 Dataset: news articals as real and fake.
 https://www.kaggle.com/c/fake-news/data?select=train.csvidtitleauthortextlabel-marks  
